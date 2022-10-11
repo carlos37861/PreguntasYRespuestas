@@ -12,14 +12,18 @@ p{
 
 hr{
     border-width: 3px;
-    max-width: 65px;
-    border-color: #F05F44;
-    width: 50%;
+    border-color: tomato;
 }
 
 .btn-xl{
-    background-color: #F05F44;
-    border-color: #F05F44;
+    background-color:teal ;
+    border-color:teal ;
     padding: 1rem 2rem;
+    margin: 1em 1em 1em 1em;
     border-radius: 100px;
+}
+.btn-xl:hover{
+    background-color: steelblue;
+    border-color: steelblue;
+
 }
